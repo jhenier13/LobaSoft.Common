@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LobaSoft.Common", "LobaSoft.Common\LobaSoft.Common.csproj", "{4926D8BA-CB8C-46ED-B077-7EC1404E9E75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{92D248BF-6113-499D-92D1-AFF07B6B34A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LobaSoft.Common.IOSLink", "LobaSoft.Common.IOSLink\LobaSoft.Common.IOSLink.csproj", "{F7F392E7-047D-405A-9B06-F306A25B31B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4926D8BA-CB8C-46ED-B077-7EC1404E9E75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4926D8BA-CB8C-46ED-B077-7EC1404E9E75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4926D8BA-CB8C-46ED-B077-7EC1404E9E75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4926D8BA-CB8C-46ED-B077-7EC1404E9E75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92D248BF-6113-499D-92D1-AFF07B6B34A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92D248BF-6113-499D-92D1-AFF07B6B34A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92D248BF-6113-499D-92D1-AFF07B6B34A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92D248BF-6113-499D-92D1-AFF07B6B34A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7F392E7-047D-405A-9B06-F306A25B31B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7F392E7-047D-405A-9B06-F306A25B31B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7F392E7-047D-405A-9B06-F306A25B31B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7F392E7-047D-405A-9B06-F306A25B31B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Test\Test.csproj
+	EndGlobalSection
+EndGlobal
